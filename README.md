@@ -11,3 +11,6 @@ DOMAIN:ARTIFICIAL INTELLIGENCE
 DURATION:1 MONTH
 
 ##YOU HAVE TO ENTER DESCRIOTION OF YOUR TASK(AND IT SHOULD NOT BE LESS THAN 500 WORDS)
+
+OUTPUT:
+<img width="1386" height="792" alt="Image" src="https://github.com/user-attachments/assets/337bcd7a-4046-4c64-b0ca-84c5fefb73ed" />
